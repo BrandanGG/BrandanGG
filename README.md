@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrandanGG, or Brandan
-- 👀 I’m interested in Python programing, Data Science & Cyber Security
+- 👀 I’m interested in Python and MySQL
 - 🌱 I’m currently learning Python & MySql
 
 <!---
