@@ -42,6 +42,9 @@
 
 [![Top Langs](https://github-readme-stats-brandangg.vercel.app//api/top-langs/?username=BrandanGG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandanGG&layout=compact)](https://github.com/BrandanGG/github-readme-stats)
+
+
 
 <!---
 BrandanGG/BrandanGG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
