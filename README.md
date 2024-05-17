@@ -24,7 +24,6 @@
 <h1></h1>
 <h2>:hammer_and_wrench: The Tech Stack I'm Learning & Have Used:</h2>
 <div>
-    <img src="" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="60" height="60">
