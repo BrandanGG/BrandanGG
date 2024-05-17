@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/brandan-grossi-4b935725a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=BrandanGG&style=flat-square&color=blue" alt=""/>
@@ -19,19 +16,22 @@
 </h1>
 <h1>About Me:</h1>
 <ul>
-  <li>:wave: I am currently an IT Manager</li>
+  <li>:wave: I am currently a Service Desk Engineer</li>
   <li>:snake: My prefered language is Python</li>
   <li>:book: I enjoy learning as a hobby</li>
 </ul>
 
 <h1></h1>
-<h2>:hammer_and_wrench: The Tech Stack I'm Learning :</h2>
+<h2>:hammer_and_wrench: The Tech Stack I'm Learning & Have Used:</h2>
 <div>
+    <img src="" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60" height="60">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="60" height="60">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="60" height="60">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60">
 </div>
 
 <h1></h1>
